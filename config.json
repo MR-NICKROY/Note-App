@@ -1,0 +1,3 @@
+{
+  "Mongoose": "mongodb+srv://NotesApp:NotesApp@cluster0.vg8ks.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
